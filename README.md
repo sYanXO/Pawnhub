@@ -1,1 +1,1 @@
-## Chess game with a shady front-end.
+## Chess game backend using Websockets
